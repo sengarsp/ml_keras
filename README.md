@@ -14,8 +14,7 @@
    # step 6 :
      job3 : traiin your model and predict accuracy or metrics , metrics accuracy is less than 80% ,then tweak the machine learninng model architecture.and Retain the model or notify that the best model is being created .
    # step 7 :
-     job4 : one extra job (job4)for monitor: if container where app is running fails due to any reason then this job should automatically 
-     start the container again from where the last trained model left.
+     job4 : one extra job (job4)for monitor: if container where app is running fails due to any reason then this job should automatically start the container again from where the last trained model left.
 # Built With 
   RHEL-8 Running in Virtual Box,
   Docker ,
