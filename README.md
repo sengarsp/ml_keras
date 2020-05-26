@@ -17,11 +17,11 @@
      job4 : one extra job (job4)for monitor: if container where app is running fails due to any reason then this job should automatically 
      start the container again from where the last trained model left.
 # Built With 
-  RHEL-8 Running in Virtual Box  \n
-  Docker 
-  Dockerfile 
-  GitHub
-  Jenkins
+  RHEL-8 Running in Virtual Box,
+  Docker ,
+  Dockerfile , 
+  GitHub .
+  Jenkins .
 # Author
  Shyamendra pratan singh sengar
   
